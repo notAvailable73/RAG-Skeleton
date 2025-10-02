@@ -1,0 +1,12 @@
+python-dotenv
+langchain
+langchain-community
+langchain-core
+faiss-cpu 
+requests
+
+
+
+# LLM 
+langchain-groq
+langchain-google-genai
