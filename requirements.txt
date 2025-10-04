@@ -4,9 +4,13 @@ langchain-community
 langchain-core
 faiss-cpu 
 requests
-
+pypdf
 
 
 # LLM 
 langchain-groq
 langchain-google-genai
+langchain-huggingface
+
+#embeddings
+sentence-transformers
